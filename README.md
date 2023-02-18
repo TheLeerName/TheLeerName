@@ -1,0 +1,25 @@
+# Hello, i'm Leer or just Alex 👋
+
+### My birthday: April 21, 2005
+
+### Coding
+<a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%"/> </a>
+<a href="https://nodejs.org"> <img src="https://i.imgur.com/dKSmDa4.png" width="5%"/> </a>
+<a href="https://www.java.com"> <img src="https://i.imgur.com/gmlTiLH.png" width="5%"/> </a>
+
+### My languages
+<a href="https://en.wikipedia.org/wiki/Russian_language"> <img src="https://i.imgur.com/ukbpkb1.png" width="5%"/> </a>
+<a href="https://en.wikipedia.org/wiki/English_language"> <img src="https://i.imgur.com/wk7f8Ic.png" width="5%"/> </a>
+
+### Games and social profiles (click to see)
+<a href="https://www.hoyolab.com/accountCenter/postList?id=226076508"> <img src="https://i.imgur.com/0QQmchp.png" width="5%"/> </a>
+<a href="https://overwatch.blizzard.com/career/TheLeerName-2192"> <img src="https://i.imgur.com/h2GhiBV.png" width="5%"/> </a>
+<a href="https://osu.ppy.sh/users/24948922"> <img src="https://i.imgur.com/gJPhXoJ.png" width="5%"/> </a>
+<a href="https://vk.com/theleername"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" width="5%"/> </a>
+<a href="https://youtube.com/@TheLeerName"> <img src="https://i.imgur.com/GUaL8pM.png" width="5%"/> </a>
+<a href="https://twitch.tv/TheLeerName"> <img src="https://avatars.githubusercontent.com/u/1795021?s=280&v=4" width="5%"/> </a>
+<a href="https://steamcommunity.com/id/theleername"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="5%"/> </a>
+<a href="https://open.spotify.com/user/uo8tpun8vmimkt1y4ep3ndi16"> <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width="5%"/> </a>
+<a href="https://www.reddit.com/user/TheLeerName"> <img src="https://i.imgur.com/da4nIOu.png" width="5%"/> </a>
+- **Discord:** `TheLeerName#4126`
+- **Minecraft nickname:** `TheLeerName`
