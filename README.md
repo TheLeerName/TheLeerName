@@ -1,6 +1,6 @@
 # Hello, i'm Leer or just Alex 👋
 
-### My birthday: April 21, 2005
+### My birthday: April 21, 2005 (17 years old)
 
 ### Coding
 <a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%"/> </a>
@@ -23,3 +23,4 @@
 <a href="https://www.reddit.com/user/TheLeerName"> <img src="https://i.imgur.com/da4nIOu.png" width="5%"/> </a>
 - **Discord:** `TheLeerName#4126`
 - **Minecraft nickname:** `TheLeerName`
+- **Genshin Impact UID:** `743241413`
