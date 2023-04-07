@@ -16,6 +16,7 @@
 <a href="https://overwatch.blizzard.com/career/TheLeerName-2192"> <img src="https://i.imgur.com/h2GhiBV.png" width="5%"/> </a>
 <a href="https://osu.ppy.sh/users/24948922"> <img src="https://i.imgur.com/gJPhXoJ.png" width="5%"/> </a>
 <a href="https://vk.com/theleername"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" width="5%"/> </a>
+<a href="https://gamebanana.com/members/2017530"> <img src="https://images.gamebanana.com/static/img/favicon/256x256.png" width="5%"/> </a>
 <a href="https://youtube.com/@TheLeerName"> <img src="https://i.imgur.com/GUaL8pM.png" width="5%"/> </a>
 <a href="https://twitch.tv/TheLeerName"> <img src="https://avatars.githubusercontent.com/u/1795021?s=280&v=4" width="5%"/> </a>
 <a href="https://steamcommunity.com/id/theleername"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="5%"/> </a>
