@@ -12,7 +12,7 @@
 <a href="https://en.wikipedia.org/wiki/English_language"> <img src="https://i.imgur.com/wk7f8Ic.png" width="5%"/> </a>
 
 ### Games and social profiles (click to see)
-<a href="https://www.hoyolab.com/accountCenter/postList?id=226076508"> <img src="https://i.imgur.com/0QQmchp.png" width="5%"/> </a>
+<a href="https://www.hoyolab.com/accountCenter/postList?id=226076508"> <img src="https://i.imgur.com/9QV02uc.png" width="5%"/> </a>
 <a href="https://overwatch.blizzard.com/career/TheLeerName-2192"> <img src="https://i.imgur.com/h2GhiBV.png" width="5%"/> </a>
 <a href="https://osu.ppy.sh/users/24948922"> <img src="https://i.imgur.com/gJPhXoJ.png" width="5%"/> </a>
 <a href="https://vk.com/theleername"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" width="5%"/> </a>
@@ -23,5 +23,6 @@
 <a href="https://open.spotify.com/user/uo8tpun8vmimkt1y4ep3ndi16"> <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width="5%"/> </a>
 <a href="https://www.reddit.com/user/TheLeerName"> <img src="https://i.imgur.com/da4nIOu.png" width="5%"/> </a>
 - **Discord:** `TheLeerName#4126`
-- **Minecraft nickname:** `TheLeerName`
-- **Genshin Impact UID:** `743241413`
+- **Minecraft nickname -** `TheLeerName`
+- **Genshin Impact UID (Europe) -** `743241413`
+- **Honkai: Star Rail UID (Europe) -** `743241413`
