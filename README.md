@@ -25,4 +25,4 @@
 - **Discord:** `TheLeerName#4126`
 - **Minecraft nickname -** `TheLeerName`
 - **Genshin Impact UID (Europe) -** `743241413`
-- **Honkai: Star Rail UID (Europe) -** `743241413`
+- **Honkai: Star Rail UID (Europe) -** `700793872`
