@@ -26,3 +26,7 @@
 - **Minecraft nickname -** `TheLeerName`
 - **Genshin Impact UID (Europe) -** `743241413`
 - **Honkai: Star Rail UID (Europe) -** `700793872`
+
+<img src="https://i.imgur.com/Su4uFdY.gif" width="50%"/>
+
+*im lazy to search a source of it on my pc lol*
