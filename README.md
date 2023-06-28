@@ -13,7 +13,7 @@
 
 ### Games and social profiles (click to see)
 <a href="https://www.hoyolab.com/accountCenter/postList?id=226076508"> <img src="https://i.imgur.com/9QV02uc.png" width="5%"/> </a>
-<a href="https://overwatch.blizzard.com/career/TheLeerName-2192"> <img src="https://i.imgur.com/h2GhiBV.png" width="5%"/> </a>
+<a href="https://overwatch.blizzard.com/career/Leer-21307"> <img src="https://i.imgur.com/h2GhiBV.png" width="5%"/> </a>
 <a href="https://osu.ppy.sh/users/24948922"> <img src="https://i.imgur.com/gJPhXoJ.png" width="5%"/> </a>
 <a href="https://vk.com/theleername"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" width="5%"/> </a>
 <a href="https://gamebanana.com/members/2017530"> <img src="https://images.gamebanana.com/static/img/favicon/256x256.png" width="5%"/> </a>
