@@ -22,7 +22,7 @@
 <a href="https://steamcommunity.com/id/theleername"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/640px-Steam_icon_logo.svg.png" width="5%"/> </a>
 <a href="https://open.spotify.com/user/uo8tpun8vmimkt1y4ep3ndi16"> <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width="5%"/> </a>
 <a href="https://www.reddit.com/user/TheLeerName"> <img src="https://i.imgur.com/da4nIOu.png" width="5%"/> </a>
-- **Discord:** `TheLeerName#4126 (theleername)`
+- **Discord:** `theleername`
 - **Minecraft nickname -** `TheLeerName`
 - **Genshin Impact UID (Europe) -** `743241413`
 - **Honkai: Star Rail UID (Europe) -** `700793872`
