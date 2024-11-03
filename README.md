@@ -1,6 +1,6 @@
 # Hello, i'm Leer or just Alex 👋
 
-### My birthday: April 21, 2005 (18 years old)
+### My birthday: April 21, 2005 (19 years old)
 
 ### Coding
 <a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%"/> </a>
