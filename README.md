@@ -1,5 +1,7 @@
 # Hello, i'm Leer or just Alex 👋
 
+<img src="https://i.imgur.com/ru5IwvG.gif"/>
+
 ### My birthday: April 21, 2005 (19 years old)
 
 ### Visitors count
