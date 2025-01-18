@@ -2,6 +2,10 @@
 
 ### My birthday: April 21, 2005 (19 years old)
 
+### Visitors count
+<!-- thx to github.com/XiaomingX, very cool free thing thx again <3 -->
+<img src="https://profile-counter.glitch.me/TheLeerName/count.svg"/>
+
 ### Coding
 <a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%"/> </a>
 <a href="https://nodejs.org"> <img src="https://i.imgur.com/dKSmDa4.png" width="5%"/> </a>
