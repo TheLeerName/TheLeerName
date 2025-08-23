@@ -1,6 +1,6 @@
 # Hello, i'm Leer or just Alex 👋
 
-### My birthday: April 21, 2005 (19 years old)
+### My birthday: April 21, 2005 (20 years old)
 
 <img src="./tenor.gif" width="20%"/>
 
