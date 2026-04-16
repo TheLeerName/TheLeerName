@@ -26,3 +26,6 @@
 - **Minecraft nickname -** `TheLeerName`
 - **Genshin Impact UID (Europe) -** `743241413`
 - **Honkai: Star Rail UID (Europe) -** `700793872`
+
+### Visitors count
+<img src="https://count.getloli.com/get/@theleername-github?theme=rule34"/> <!-- found on moxie-coder's github readme page <3 -->
