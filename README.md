@@ -5,7 +5,6 @@
 <img src="./tenor.gif" width="20%"/>
 
 ### Coding
-<a href="https://haxe.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/800px-Haxe_logo.svg.png" width="5%"/> </a>
 <a href="https://nodejs.org"> <img src="https://i.imgur.com/dKSmDa4.png" width="5%"/> </a>
 <a href="https://www.java.com"> <img src="https://i.imgur.com/Su4uFdY.gif" width="10%"/> </a>
 
